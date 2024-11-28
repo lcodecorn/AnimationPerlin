@@ -1,5 +1,5 @@
 // ThreeJS and Third-party deps
-import * as THREE from "three";
+import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.152.0/build/three.module.js";
 import * as dat from "dat.gui";
 import Stats from "three/examples/jsm/libs/stats.module";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
